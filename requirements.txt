@@ -1,0 +1,14 @@
+numpy 
+pandas
+requests
+flask
+matplotlib
+scikit-learn
+tensorflow
+beautifulsoup4
+pytest
+sqlalchemy
+pydantic
+fastapi
+uvicorn 
+-e .
